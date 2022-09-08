@@ -5,4 +5,4 @@
 sudo apt install git
 ```
 
-> Esta modificación la estoy haciendo en la rama dev 2
+> Esta modificación la estoy haciendo en la rama production
